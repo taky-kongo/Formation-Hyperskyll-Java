@@ -1,0 +1,3 @@
+Une application console qui aide à gérer une salle de cinéma : vendre des billets, vérifier les places disponibles, consulter les statistiques de vente,
+
+Dans ce projet, vous allez créer un programme qui automatise la gestion d'une salle de cinéma. Vous utiliserez les concepts clés de Java, notamment le travail avec les opérations d'entrée/sortie, la gestion des tableaux, la création de fonctions et l'utilisation de boucles et d'instructions conditionnelles.
